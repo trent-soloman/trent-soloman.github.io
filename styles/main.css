@@ -1,0 +1,35 @@
+h1{
+  colour:red;
+}
+
+h2{
+colour:blue;
+}
+
+p{
+  font-family: sans-serif;
+}
+
+
+div{
+  font-size: 14px
+}
+
+#intro{
+    font-family: Verdana;
+    }
+
+.colour{
+    color:#F7AC5F;
+    }
+
+    a:link{
+    color:#008B45;
+    text-decoration:none;
+}
+a:hover{
+    color:#00FF00;
+}
+a:visited{
+    color:#EE9A00;
+}
