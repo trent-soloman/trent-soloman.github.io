@@ -1,11 +1,11 @@
 h1{
   color:red;
   font-family:sans-serif
-text-align: center;
+text-align:center;
 }
 
 .hometext{
-text-align: center;
+text-align:center;
 }
 
 a:link{
@@ -20,6 +20,7 @@ a:visited{
 
 body {
     background-color: #9DB6C7;
+    display:block;
 }
 
 .img-circle {
