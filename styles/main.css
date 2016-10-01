@@ -34,3 +34,7 @@ a:hover{
 a:visited{
     color:grey;
 }
+
+body {
+    background-color: #9DB6C7;
+}
