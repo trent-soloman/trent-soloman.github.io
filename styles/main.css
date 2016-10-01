@@ -1,7 +1,11 @@
 h1{
   color:red;
   font-family:sans-serif
-  text-align:center;
+  text-align: center;
+}
+
+.hometext{
+  text-align: center;
 }
 
 a:link{
