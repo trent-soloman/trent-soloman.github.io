@@ -2,14 +2,12 @@ h1{
   color:red;
   font-family:sans-serif
 text-align:center;
-display: inline;
-position: relative;
 }
+
 
 .hometext{
 text-align:center;
-display: inline;
-position: relative;
+display: block;
 }
 
 a:link{
