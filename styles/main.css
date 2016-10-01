@@ -12,9 +12,9 @@ p{
   font-family:sans-serif;
 }
 
-
-div{
-margin: auto;
+.center-div{
+  margin: 0 auto;
+  width: 100px; 
 }
 
 #intro{
