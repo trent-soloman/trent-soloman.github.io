@@ -8,6 +8,7 @@ text-align:center;
 .hometext{
 text-align:center;
 display: block;
+margin: 20px;
 }
 
 a:link{
@@ -26,4 +27,6 @@ body {
 
 .img-circle {
     border-radius: 50%;
+    display:block;
+    margin: 0 auto;
 }
