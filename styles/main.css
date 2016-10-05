@@ -26,9 +26,8 @@ a:visited{
 
 body {
     background: url(stars_mobile_background.jpg);
-    background-repeat: no-repeat;
-    background-position: left top;
     background-attachment: fixed;
+    background-size:100%;
 }
 
 @media only screen and (min-width: 400px) {
