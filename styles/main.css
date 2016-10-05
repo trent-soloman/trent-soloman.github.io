@@ -27,8 +27,6 @@ a:visited{
 body {
     background: url(stary_night_background_resized.jpg);
     background-repeat: no-repeat;
-    background-position: right top;
-    background-attachment: fixed;
     }
 }
 
