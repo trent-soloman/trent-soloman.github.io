@@ -25,7 +25,7 @@ a:visited{
 }
 
 body {
-    background-image: url("stary_night_background_resized.jpg");
+    background: url(stary_night_background_resized.jpg);
     /*background-color: #9DB6C7;*/
 }
 
