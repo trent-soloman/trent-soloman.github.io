@@ -1,5 +1,5 @@
 h1 {
-  color:red;
+  color:#9b73e3;
   font-family:sans-serif;
   text-align: center;
 }
@@ -65,6 +65,7 @@ background-color: rgba(195, 218, 237, 0.5);
   height:60px;
   padding: 5px;
   margin: 20px;
+  position: fixed;
   background-color: #ffffff;
   /* Fallback for web browsers that don't support RGBa */
   background-color: rgb(195, 218, 237);
