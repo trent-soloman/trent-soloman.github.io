@@ -33,6 +33,7 @@ body {
 @media only screen and (min-width: 400px) {
     body {
         background-image: url(stary_night_background_resized.jpg);
+        background-size: 1368px 912px;
         background-repeat: no-repeat;
         background-position: left top;
         background-attachment: fixed;
