@@ -37,7 +37,8 @@ body {
         background-repeat: no-repeat;
         background-position: left top;
         background-attachment: fixed;
-    }
+      }
+}
 
 .img-circle {
     border-radius: 50%;
