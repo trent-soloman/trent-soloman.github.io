@@ -39,6 +39,13 @@ body {
       }
 }
 
+hr {
+  background-color:orange;
+  color:orange;
+  height:5px;
+  width: 75%;
+}
+
 .img-circle {
     border-radius: 50%;
     display:block;
