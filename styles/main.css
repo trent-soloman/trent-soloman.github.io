@@ -19,6 +19,8 @@ p{
 
 p::first-letter {
 color: red;
+font-family: 'IM Fell English SC', serif;
+font-size: 14;
 }
 
 .hometext{
