@@ -17,6 +17,10 @@ p{
   margin-left: 250px;
 }
 
+p::first-letter {
+color: red;
+}
+
 .hometext{
 text-align:center;
 display: block;
