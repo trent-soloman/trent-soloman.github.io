@@ -1,7 +1,7 @@
 #home-page-content{
   position: relative;
   top: 80px;
-  z-index: 0;
+  z-index: 1;
 
 }
 
@@ -91,5 +91,5 @@ background-color: rgba(195, 218, 237, 0.8);
   left: 0;
   margin-right: auto;
   margin-left: auto;
-  z-index: 1
+  z-index: 2;
 }
