@@ -56,13 +56,6 @@ margin: 20px;
 background-color: rgba(195, 218, 237, 0.5);
 }
 
-.blog-post-links:hover
-{
-opacity:1.0;
-filter:alpha(opacity=100); /* For IE8 and earlier */
-}
-
-
 
 .title-box{
   width:80%;
