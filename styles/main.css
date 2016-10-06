@@ -64,6 +64,7 @@ background-color: rgba(195, 218, 237, 0.5);
   height:60px;
   position: fixed;
   background-color: rgba(195, 218, 237, 0.5);
+  display:table;
 }
 
 .img-circle {
