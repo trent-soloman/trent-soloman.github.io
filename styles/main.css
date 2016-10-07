@@ -79,8 +79,9 @@ display:table;
   height:50px;
 border: 2px solid white;
 padding: 5px;
-margin: 20px;
+margin: 20px auto;
 background-color: rgba(195, 218, 237, 0.8);
+display:table;
 }
 
 .img-circle {
