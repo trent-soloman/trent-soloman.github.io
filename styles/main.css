@@ -5,12 +5,20 @@
 
 }
 
-h1 {
+#homepage-title{
   color:#9b73e3;
   font-family:sans-serif;
   text-align: center;
   display:table-cell;
   vertical-align:middle;
+}
+
+.blog-post-title{
+  color:#9b73e3;
+  font-family:sans-serif;
+  text-align: center;
+  margin: 20px auto;
+  padding: 5px;
 }
 
 p{
