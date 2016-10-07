@@ -32,10 +32,10 @@ vertical-align:middle;
 }
 
 a:link{
-    color:blue;
+    color:purple;
 }
 a:hover{
-    color:yellow;
+    color:purple;
 }
 a:visited{
     color:purple;
@@ -102,4 +102,8 @@ display:table;
   margin-right: auto;
   margin-left: auto;
   z-index: 2;
+}
+
+.page-panel{
+  background-color: rgba(195, 218, 237, 0.5);
 }
