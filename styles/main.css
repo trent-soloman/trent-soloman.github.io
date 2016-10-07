@@ -19,7 +19,7 @@ p{
 }
 
 p::first-letter {
-color: red;
+color: #673ab7;
 font-size: 14;
 }
 
