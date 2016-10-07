@@ -15,11 +15,11 @@ h1 {
 
 p{
   margin-left: 250px;
+  font-family: 'IM Fell English SC', serif;
 }
 
 p::first-letter {
 color: red;
-font-family: 'IM Fell English SC', serif;
 font-size: 14;
 }
 
