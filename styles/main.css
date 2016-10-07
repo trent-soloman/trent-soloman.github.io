@@ -49,14 +49,6 @@ a:visited{
 }
 
 body {
-  background-image: url(stary_night_background_resized.jpg);
-  background-size: 1368px 912px;
-  background-repeat: no-repeat;
-  background-position: left top;
-  background-attachment: fixed;
-
-
-/*body {
     background: url(stars_mobile_background.jpg);
     background-attachment: fixed;
     background-size:100%;
@@ -70,7 +62,7 @@ body {
         background-position: left top;
         background-attachment: fixed;
       }
-}*/
+}
 
 hr {
   background-color:#9e9e9e;
