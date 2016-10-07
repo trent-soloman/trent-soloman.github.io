@@ -123,6 +123,7 @@ display:table;
   display: block;
   display:table-cell;
   vertical-align:middle;
+  color: purple;
 }
 
 .homepage-link-box{
