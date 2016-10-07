@@ -39,13 +39,13 @@ vertical-align:middle;
 }
 
 a:link{
-    color:#9b73e3;
+    color:purple;
 }
 a:hover{
-    color:#9b73e3;
+    color:purple;
 }
 a:visited{
-    color:#9b73e3;
+    color:purple;
 }
 
 body {
@@ -116,4 +116,8 @@ display:table;
   margin: 20px auto;
   padding: 20px;
   background-color: rgba(195, 218, 237, 0.5);
+}
+
+.home-link{
+  margin: 20px auto;
 }
