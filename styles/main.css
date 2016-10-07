@@ -119,5 +119,14 @@ display:table;
 }
 
 .home-link{
+  text-align:center;
+  display: block;
+  display:table-cell;
+  vertical-align:middle;
+}
+
+.homepage-link-box{
   margin: 20px auto;
+  padding 10px;
+  display:table;
 }
