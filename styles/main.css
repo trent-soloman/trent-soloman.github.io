@@ -104,21 +104,10 @@ display:table;
 }
 
 .page-panel{
-  width:80%;
+  width:55%;
   margin: 20px auto;
   padding: 20px;
   background-color: rgba(195, 218, 237, 0.5);
-}
-
-@media screen and (min-device-width : 480px) {
-
-  .page-panel{
-    width:55%;
-    margin: 20px auto;
-    padding: 20px;
-    background-color: rgba(195, 218, 237, 0.5);
-  }
-
 }
 
 .home-link{
